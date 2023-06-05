@@ -35,6 +35,10 @@ The save it, go to the third person example map and create a plane or cube apply
 ![p3](https://github.com/Shobika187/EX01-EFFECTS-IN-UNREAL/assets/94508142/007cc21c-1396-458d-91f8-b043488e542b)
 ### ROUGHNESS:
 ![p4](https://github.com/Shobika187/EX01-EFFECTS-IN-UNREAL/assets/94508142/cd4900e1-3027-4535-ac03-ec0ac88405e6)
+### GLASS
+![p5](https://github.com/Shobika187/EX01-EFFECTS-IN-UNREAL/assets/94508142/a63d145b-e97d-48fa-8174-b64a42faa87e)
+![p6](https://github.com/Shobika187/EX01-EFFECTS-IN-UNREAL/assets/94508142/084dafdd-4b04-4921-9cb3-48bf57eff053)
+
 
 
 ## RESULT:
