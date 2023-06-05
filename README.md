@@ -29,11 +29,13 @@ The save it, go to the third person example map and create a plane or cube apply
 ![p1](https://github.com/Shobika187/EX01-EFFECTS-IN-UNREAL/assets/94508142/fa8ba087-3330-4cd2-b334-c440e4dabd67)
 ### Metalic TEXTURE:
 
+![Screenshot (261)](https://github.com/Shobika187/EX01-EFFECTS-IN-UNREAL/assets/94508142/8ea1ca08-85d5-4adb-942a-24f07098479c)
 
 ### EMISSIVE TEXTURE:
 ![p3](https://github.com/Shobika187/EX01-EFFECTS-IN-UNREAL/assets/94508142/007cc21c-1396-458d-91f8-b043488e542b)
 ### ROUGHNESS:
+![p4](https://github.com/Shobika187/EX01-EFFECTS-IN-UNREAL/assets/94508142/cd4900e1-3027-4535-ac03-ec0ac88405e6)
 
-![Uploading p4.png…]()
+
 ## RESULT:
 Thus, various effects in material properties is successfully implemented in Unreal Engine.
