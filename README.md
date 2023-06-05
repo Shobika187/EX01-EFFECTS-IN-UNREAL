@@ -32,6 +32,8 @@ The save it, go to the third person example map and create a plane or cube apply
 ![Screenshot (261)](https://github.com/Shobika187/EX01-EFFECTS-IN-UNREAL/assets/94508142/8ea1ca08-85d5-4adb-942a-24f07098479c)
 
 ### EMISSIVE TEXTURE:
+![P7](https://github.com/Shobika187/EX01-EFFECTS-IN-UNREAL/assets/94508142/c8dc3095-729f-4b6a-8b8e-08611dc55079)
+
 ![p3](https://github.com/Shobika187/EX01-EFFECTS-IN-UNREAL/assets/94508142/007cc21c-1396-458d-91f8-b043488e542b)
 ### ROUGHNESS:
 ![p4](https://github.com/Shobika187/EX01-EFFECTS-IN-UNREAL/assets/94508142/cd4900e1-3027-4535-ac03-ec0ac88405e6)
