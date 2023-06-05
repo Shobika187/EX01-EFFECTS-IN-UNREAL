@@ -3,7 +3,7 @@
 To Implement various effects in a material such as emissive, roughness, and metallic properties in Unreal Engine.
 ## PROCEDURE:
 ### Step1 :
-Right-click in the content browser and choose material. Rename the material and double-click to open it.
+Right-click in the content browser and choose material. Rename the material and double-click to open it
 ### Step2 :
 Right-click in the working space and search for constants. In constant choose constant vector
 ### Step3 :
